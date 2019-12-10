@@ -14,7 +14,7 @@
     "not op_mini all"
   ],
   "bugs": {
-    "url": "https://github.com/sablierhq/sablier/issues"
+    "url": "https://github.com/sablierhq/legacy-uis/issues"
   },
   "dependencies": {
     "apollo-boost": "^0.3.1",
@@ -83,7 +83,8 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sablierhq/sablier.git"
+    "url": "https://github.com/sablierhq/legacy-uis.git",
+    "directory": "v0/dapp"
   },
   "scripts": {
     "build:cra": "react-scripts build",

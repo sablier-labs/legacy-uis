@@ -10,7 +10,7 @@ function FollowUsOnTwitter({ burnerComponents }) {
   return (
     <Page title="Follow Us">
       <div className="FollowUsOnTwitterContainer">
-        <a href="https://twitter.com/sablierhq" rel="noopener noreferrer" target="_blank">
+        <a href="https://twitter.com/SablierHQ" rel="noopener noreferrer" target="_blank">
           <img src={TwitterLogo} alt="Twitter Logo" width="188px" height="188px" />
         </a>
       </div>

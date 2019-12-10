@@ -13,6 +13,9 @@
       "last 1 safari version"
     ]
   },
+  "bugs": {
+    "url": "https://github.com/sablierhq/legacy-uis/issues"
+  },
   "dependencies": {
     "@burner-wallet/assets": "^0.0.22",
     "@burner-wallet/core": "^0.0.25",
@@ -41,6 +44,11 @@
     "extends": "react-app"
   },
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sablierhq/legacy-uis.git",
+    "directory": "v0/burner-wallet"
+  },
   "scripts": {
     "build:cra": "react-scripts build",
     "clean": "shx rm -rf ./build",

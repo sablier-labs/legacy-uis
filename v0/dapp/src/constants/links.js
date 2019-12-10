@@ -2,7 +2,7 @@
 module.exports = {
   menu: {
     docs: "https://beta.sablier.app",
-    github: "https://github.com/sablierhq/sablier",
+    github: "https://github.com/sablierhq/",
     twitter: "https://twitter.com/SablierHQ",
   },
   share: {

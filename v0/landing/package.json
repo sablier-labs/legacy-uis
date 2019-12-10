@@ -51,7 +51,8 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sablierhq/sablier.git"
+    "url": "https://github.com/sablierhq/legacy-uis.git",
+    "directory": "v0/landing"
   },
   "scripts": {
     "build:cra": "react-scripts build",
